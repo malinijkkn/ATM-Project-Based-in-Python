@@ -107,6 +107,6 @@ def start_menu():
     if log_in():
         # you will need to make this one yourself!
         #main_menu()
-        print("Exiting Program")
+        print("-----------------Exiting Program---------------")
 
 start_menu()
